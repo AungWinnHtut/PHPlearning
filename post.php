@@ -3,15 +3,18 @@
 </head>
 <body>
 <?php
-	echo $_POST["kyat"]; 
+	$kyat= $_POST["kyat"]; 
+	echo $kyat;
 ?>
 <br>
 <?php
-	echo $_POST["pae"]; 
+	$pae= $_POST["pae"]; 
+	echo $pae;
 ?>
 <br>
 <?php
-	echo $_POST["yway"]; 
+	$yway= $_POST["yway"]; 
+	echo $yway;
 ?>
 <br>
 

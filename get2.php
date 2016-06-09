@@ -3,7 +3,7 @@
 </head>
 <body>
 <?php
-	echo $_GET["kyat"]; 
+	echo $_GET["english"]; 
 ?>
 <br>
 </body>
